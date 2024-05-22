@@ -1,0 +1,5 @@
+media/soumissions/*.jpg
+media/soumissions/*.jpeg
+media/soumissions/*.png
+media/soumissions/*.gif
+model_ia/*.h5
